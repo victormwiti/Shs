@@ -1,0 +1,6 @@
+{
+  "name": "NetShare",
+  "description": "Cross-platform Android and Chromebook compatible Wi-Fi and proxy hotspot sharing tool",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
